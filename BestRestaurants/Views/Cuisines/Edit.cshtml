@@ -1,5 +1,5 @@
 @{
-  Layput = "_Layout";
+  Layout = "_Layout";
 }
 
 @model BestRestaurants.Models.Cuisine
@@ -12,7 +12,7 @@
 {
   @Html.HiddenFor(model => model.CuisineId)
   @Html.LabelFor(model => model.Type)
-  @Html.EditorFor(model => model.type)
+  @Html.EditorFor(model => model.Type)
 
   <input type="submit" value="Save" />
 
