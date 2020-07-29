@@ -1,3 +1,5 @@
+using BestRestaurants.Models;
+
 namespace BestRestaurants
 {
   public class Restaurant
