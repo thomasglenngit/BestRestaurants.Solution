@@ -25,7 +25,7 @@ namespace BestRestaurants.Controllers
     [HttpGet]
     public ActionResult Create()
     {
-      ViewBag.CuisineId = new SelectList(_db.Cuisines, "CuisineId", "Name");
+      ViewBag.CuisineId = new SelectList(_db.Cuisines, "CuisineId", "Type");
       return View();
     }
     
@@ -39,7 +39,7 @@ namespace BestRestaurants.Controllers
 
     public ActionResult Details(int id)
     {
-      Restaurant thisRestaurant = _db.Restaurants.FirstOrDefault(restaurants => restaurants.RestaurantId == id);
+      Restaurant thisRestaurant = _db.Restaurants.Include(restaurant => restaurant.Name).FirstOrDefault(restaurants => restaurants.RestaurantId == id);
       return View(thisRestaurant);
     }
 
