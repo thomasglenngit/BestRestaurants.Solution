@@ -29,6 +29,13 @@ namespace BestRestaurants.Controllers
     [HttpPost]
     public ActionResult Create(Cuisine cuisine)
     {
+        foreach(Cuisine cus in _db.Cuisines)
+        {
+          if(cus.Type == cuisine.Type)
+          {
+            return RedirectToAction("Index");
+          }
+        }
         _db.Cuisines.Add(cuisine);
         _db.SaveChanges();
         return RedirectToAction("Index");
