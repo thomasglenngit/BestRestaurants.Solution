@@ -5,6 +5,8 @@
 
 
 *<h2 align ='center'>An application to evaluate and list the best restaurants in your area.*
+  
+  <h1 align='center'><img width='900' height='450' src='http://www.citechicago.com/citeadmin/wp-content/uploads/2012/05/Restaurant-Sunset-View-988x659.jpg'><br>
 
 
 <h3 align ='center'>•<a href='#requirements'> Requirements</a> •<a href='#setup'> Setup</a> •<a href='#technologies-used'> Technologies</a> •<a href='#❤️contributors'> Contributors</a> •<a href='#known-bugs'> Bugs</a> •<a href='#protecting-your-data'> Protecting Data</a> •<a href='#specifications'> Specs</a> •<a href='#cloning'> Cloning</a> •<a href='#database-with-migrations'> Database</a></h3>
@@ -107,10 +109,9 @@ with the root project folder open in your code editor, execute the following in 
 <br>
 
 # **❤️Contributors**
+ [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/ben-russell.jpeg' width='160px;'/><br /><sub><b>Ben Russell</b></sub>](https://www.linkedin.com/in/ben-russell36/)<br />
 
-| [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/ben-russell.jpeg' width='160px;'/><br /><sub><b>Ben Russell</b></sub>](https://www.linkedin.com/in/ben-russell36/)<br />
-
-| [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/evgeniya-chernaya.jpeg' width='160px;'/><br /><sub><b>Evgeniya Chernaya</b></sub>](https://www.linkedin.com/in/evgeniyach/)<br />
+ [<img src='https://coding-assets.s3-us-west-2.amazonaws.com/linked-in-images/evgeniya-chernaya.jpeg' width='160px;'/><br /><sub><b>Evgeniya Chernaya</b></sub>](https://www.linkedin.com/in/evgeniyach/)<br />
 
 <br>
 
