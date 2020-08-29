@@ -1,6 +1,3 @@
-<h1 align='center'><img width='900' height='450' src=''><br>
-
-
 **<h1 align = 'center'>Best Restaurants**
 
 
