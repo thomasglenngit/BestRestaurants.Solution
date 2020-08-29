@@ -9,11 +9,8 @@
 <h3 align ='center'>•<a href='#requirements'> Requirements</a> •<a href='#setup'> Setup</a> •<a href='#technologies-used'> Technologies</a> •<a href='#❤️contributors'> Contributors</a> •<a href='#known-bugs'> Bugs</a> •<a href='#protecting-your-data'> Protecting Data</a> •<a href='#specifications'> Specs</a> •<a href='#cloning'> Cloning</a> •<a href='#database-with-migrations'> Database</a></h3>
 
 
-<h3 align='center'></h3>
+<h3 align='center'></h3> 
 
-# **SPECIFICATIONS**
-
-insert your markdown table from [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) right here!
 
 # **REQUIREMENTS**
 
