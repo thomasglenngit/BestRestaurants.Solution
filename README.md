@@ -3,7 +3,7 @@
 
 *<h2 align ='center'>An application to evaluate and list the best restaurants in your area.*
   
-  <h1 align='center'><img width='900' height='450' src='http://www.citechicago.com/citeadmin/wp-content/uploads/2012/05/Restaurant-Sunset-View-988x659.jpg'><br>
+  <h1 align='center'><img width='900' height='450' src='https://media.cntraveler.com/photos/5baa952f6477eb358f1429de/master/w_1200,c_limit/CNtraveler_0345_Final.jpg?mbid=social_retweet'><br>
 
 
 <h3 align ='center'>•<a href='#requirements'> Requirements</a> •<a href='#setup'> Setup</a> •<a href='#technologies-used'> Technologies</a> •<a href='#❤️contributors'> Contributors</a> •<a href='#known-bugs'> Bugs</a> •<a href='#protecting-your-data'> Protecting Data</a> •<a href='#specifications'> Specs</a> •<a href='#cloning'> Cloning</a> •<a href='#database-with-migrations'> Database</a></h3>
